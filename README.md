@@ -1,4 +1,4 @@
-# Fraud Detection Project: Candidate Expectations
+# Fraud Detection Project:
 
 ## 1. Data Cleaning
 - **Missing Values:**
